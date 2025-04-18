@@ -1,37 +1,44 @@
-# Customer Churn Prediction in R
+# Hi, I'm [Your Name] 👋
 
-Predicting customer churn for a telecom company using machine learning models in R.
+Welcome to my Data Science portfolio! I'm passionate about using **data**, **statistics**, and **machine learning** to solve real-world problems. I primarily work with **R** and love creating insights through analysis, models, and visualizations.
 
-## Table of Contents
-- [Project Overview](#project-overview)
-- [Dataset](#dataset)
-- [Technologies Used](#technologies-used)
-- [Project Structure](#project-structure)
-- [How to Run](#how-to-run)
-- [Results](#results)
-- [Future Work](#future-work)
+---
 
-## Project Overview
-The goal of this project was to identify customers likely to churn (leave the service) based on their usage patterns and service history. Early detection of churn can help businesses proactively retain customers.  
-Techniques used include:
-- Exploratory Data Analysis (EDA)
-- Data preprocessing
-- Machine learning models (Random Forest, Logistic Regression)
-- Model evaluation (ROC curve, AUC score)
+## 🧰 Tools & Technologies
+- R (tidyverse, caret, randomForest, ggplot2, Shiny)
+- Python (Pandas, scikit-learn, matplotlib)
+- SQL
+- Git & GitHub
+- Data Visualization & Storytelling
 
-## Dataset
-- **Source:** [Kaggle - Telco Customer Churn Dataset](https://www.kaggle.com/blastchar/telco-customer-churn)
-- **Observations:** 7,043 customers
-- **Features:** Demographic info, account information, usage patterns
-- **Preprocessing:** Handling missing values, encoding categorical variables
+---
 
-## Technologies Used
-- **R version:** 4.3.0
-- **Libraries:**
-  - tidyverse
-  - caret
-  - randomForest
-  - ROCR
-  - ggplot2
+## 📂 Featured Projects
+Here are some of my favorite projects:
 
-## Project Structure
+- [**Customer Churn Prediction in R**](link-to-project)  
+  *Predicting telecom customer churn using machine learning models in R.*
+
+- [**Time Series Forecasting**](link-to-project)  
+  *Forecasting sales data using ARIMA and Prophet models.*
+
+- [**Shiny Dashboard for EDA**](link-to-project)  
+  *Interactive dashboard to explore datasets visually.*
+
+---
+
+## 📈 What I'm Working On
+- Building new projects combining R, SQL, and Shiny
+- Improving machine learning skills with tidymodels
+- Exploring deployment of Shiny apps and Quarto websites
+
+---
+
+## 📫 How to Reach Me
+- LinkedIn: [Your LinkedIn](link-to-linkedin)
+- Email: [your.email@example.com](mailto:your.email@example.com)
+
+---
+
+Thanks for visiting my portfolio! 🚀  
+Feel free to check out my projects, leave feedback, or connect with me!
