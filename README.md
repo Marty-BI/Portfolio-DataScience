@@ -1,4 +1,4 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm Martijn 👋
 
 Welcome to my Data Science portfolio! I'm passionate about using **data**, **statistics**, and **machine learning** to solve real-world problems. I primarily work with **R** and love creating insights through analysis, models, and visualizations.
 
@@ -35,8 +35,8 @@ Here are some of my favorite projects:
 ---
 
 ## 📫 How to Reach Me
-- LinkedIn: [Your LinkedIn](link-to-linkedin)
-- Email: [your.email@example.com](mailto:your.email@example.com)
+- LinkedIn: [Martijn Bosch](https://www.linkedin.com/in/martijn-bosch-b605b6124/)
+- Email: [martijnbosch40@hotmail.com](mailto:martijnbosch40@hotmail.com)
 
 ---
 
