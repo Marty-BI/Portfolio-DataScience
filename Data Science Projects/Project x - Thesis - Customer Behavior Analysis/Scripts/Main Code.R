@@ -996,7 +996,6 @@ ggplot(data= clean_df_program1, aes(x=total_revenue, fill=factor(redeemer_latest
 
   
 
-
 # Graphs dataset 1
 Revenue_graph(clean_df_program1, "Total Revenue Dataset 1")
 Avg_quantity_sold_graph(clean_df_program1, "Average quantity sold Dataset 1")
